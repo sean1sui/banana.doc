@@ -1,0 +1,23 @@
+{
+  "name": "banana.doc",
+  "version": "1.0.0",
+  "description": "a doc for banana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "web" : "cd apps/web && pnpm dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean1sui/banana.doc.git"
+  },
+  "keywords": [
+    "doc"
+  ],
+  "author": "sean7sui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sean1sui/banana.doc/issues"
+  },
+  "homepage": "https://github.com/sean1sui/banana.doc#readme"
+}
